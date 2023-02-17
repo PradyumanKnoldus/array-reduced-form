@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import java.util.HashMap;
 import java.util.Arrays;
+
 public class ArrayReducedForm {
     public static void reducingArray(int array[]) {
 
